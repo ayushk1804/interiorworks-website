@@ -4,7 +4,7 @@ export const COMMENTS =
         id: 0,
         dishId: 0,
         rating: 5,
-        comment: "Imagine all the eatables, living in conFusion!",
+        comment: "Imagine all the tables, living in confusion!",
         author: "John Lemon",
         date: "2012-10-16T17:57:28.556094Z"
     },
@@ -12,7 +12,7 @@ export const COMMENTS =
         id: 1,
         dishId: 0,
         rating: 4,
-        comment: "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+        comment: "Sends anyone to heaven?, I wish I could get my mother-in-law to see it!",
         author: "Paul McVites",
         date: "2014-09-05T17:57:28.556094Z"
     },
@@ -20,7 +20,7 @@ export const COMMENTS =
         id: 2,
         dishId: 0,
         rating: 3,
-        comment: "Eat it, just eat it!",
+        comment: "Place it, Grace it!",
         author: "Michael Jaikishan",
         date: "2015-02-13T17:57:28.556094Z"
     },
@@ -44,7 +44,7 @@ export const COMMENTS =
         id: 5,
         dishId: 1,
         rating: 5,
-        comment: "Imagine all the eatables, living in conFusion!",
+        comment: "Imagine all the Tables, living in conFusion!",
         author: "John Lemon",
         date: "2012-10-16T17:57:28.556094Z"
     },
@@ -52,7 +52,7 @@ export const COMMENTS =
         id: 6,
         dishId: 1,
         rating: 4,
-        comment: "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+        comment: "Sends anyone to heaven, I wish I could get my mother-in-law to see it!",
         author: "Paul McVites",
         date: "2014-09-05T17:57:28.556094Z"
     },
@@ -60,7 +60,7 @@ export const COMMENTS =
         id: 7,
         dishId: 1,
         rating: 3,
-        comment: "Eat it, just eat it!",
+        comment: "Place it, Grace it!",
         author: "Michael Jaikishan",
         date: "2015-02-13T17:57:28.556094Z"
     },
@@ -84,7 +84,7 @@ export const COMMENTS =
         id: 10,
         dishId: 2,
         rating: 5,
-        comment: "Imagine all the eatables, living in conFusion!",
+        comment: "Imagine all the Tables, living in conFusion!",
         author: "John Lemon",
         date: "2012-10-16T17:57:28.556094Z"
     },
@@ -92,7 +92,7 @@ export const COMMENTS =
         id: 11,
         dishId: 2,
         rating: 4,
-        comment: "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+        comment: "Sends anyone to heaven, I wish I could get my mother-in-law to see it!",
         author: "Paul McVites",
         date: "2014-09-05T17:57:28.556094Z"
     },
@@ -100,7 +100,7 @@ export const COMMENTS =
         id: 12,
         dishId: 2,
         rating: 3,
-        comment: "Eat it, just eat it!",
+        comment: "Place it, Grace it!",
         author: "Michael Jaikishan",
         date: "2015-02-13T17:57:28.556094Z"
     },
@@ -124,7 +124,7 @@ export const COMMENTS =
         id: 15,
         dishId: 3,
         rating: 5,
-        comment: "Imagine all the eatables, living in conFusion!",
+        comment: "Imagine all the Tables, living in conFusion!",
         author: "John Lemon",
         date: "2012-10-16T17:57:28.556094Z"
     },
@@ -132,7 +132,7 @@ export const COMMENTS =
         id: 16,
         dishId: 3,
         rating: 4,
-        comment: "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+        comment: "Sends anyone to heaven, I wish I could get my mother-in-law to see it!",
         author: "Paul McVites",
         date: "2014-09-05T17:57:28.556094Z"
     },
@@ -140,7 +140,7 @@ export const COMMENTS =
         id: 17,
         dishId: 3,
         rating: 3,
-        comment: "Eat it, just eat it!",
+        comment: "Place it, Grace it!",
         author: "Michael Jaikishan",
         date: "2015-02-13T17:57:28.556094Z"
     },
